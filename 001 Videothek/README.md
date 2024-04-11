@@ -18,17 +18,15 @@ Kunden die gerade ausgeliehenen Medien zu ermitteln.
 
 ## Hinweise zum Durcharbeiten 
 
-Fangen Sie in der App.java an, an der Stelle, an der das erste mal
-ein Objekt vom Typ Customer (Kunde) auftaucht, wechseln Sie in die 
-Datei Customer.java und arbeiten diese durch.
+Fangen Sie in der *App.java* an, an der Stelle, an der das erste mal
+ein Objekt vom Typ **Customer** (Kunde) auftaucht, wechseln Sie in die 
+Datei *Customer.java* und arbeiten diese durch.
 
-Dann kehren Sie in die Datei App.java zurück und arbeiten sich 
-weiter vor bis zum Erscheinen des ersten Objektes vom Typ Movie.
-Dann arbeiten Sie die Datei Media.java durch und dann die Datei 
-Movie.java.
+Dann kehren Sie in die Datei *App.java* zurück und arbeiten sich 
+weiter vor bis zum Erscheinen des ersten Objektes vom Typ **Movie**.
+Dann arbeiten Sie die Datei *Media.java* durch und dann die Datei 
+*Movie.java*.
 
-Dann kehren Sie in die Datei App.java zurück und arbeiten sich
-weiter vor bis zu dem ersten Objekt vom Typ Game und schauen sich
-die in der Datei Game.java an.
-
-
+Dann kehren Sie in die Datei *App.java* zurück und arbeiten sich
+weiter vor bis zu dem ersten Objekt vom Typ **Game** und schauen sich
+die in der Datei *Game.java* an.
