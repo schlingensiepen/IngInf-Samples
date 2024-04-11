@@ -41,7 +41,7 @@ public class App {
         // abzufragen.
         Scanner scanner = new Scanner(System.in);
 
-        // Erstellen einer Liste um alle Kunden abzuspeichern.
+        // Erstellen einer Liste, um alle Kunden abzuspeichern.
         List<Customer> customers = new ArrayList<Customer>();
 
         // Herstellen von ein paar Beispiel-Kunden.
@@ -97,7 +97,7 @@ public class App {
 
         // int i = 0 -- Initialisierung
         // deklariert einen Integer mit Name i
-        // und weißt diesem gleich den Wert 0 zu.
+        // und weist diesem gleich den Wert 0 zu.
 
         // i < custumers.size() -- Abbruchbedingung
         // Der Ausdruck kann zu einem Wahrheitwert
@@ -234,7 +234,7 @@ public class App {
                 System.out.println(customer);
             }
             // Neben der Auwahl eines Kunden soll es auch möglich sein
-            // eine Übersich der Ausleihsituation (s. Aufgabenstellung)
+            // eine Übersicht der Ausleihsituation (s. Aufgabenstellung)
             // anzeigen zu lassen.
             // Dafür blenden wir eine zusätzliche Auswahloption ein.
             System.out.println(number + " Übersicht");
@@ -334,13 +334,13 @@ public class App {
                 System.out.print("Auszuleihendes Medium: ");
                 System.out.println(selectedMedia);
 
-                // Medium zum Kunden zuordnen (in die borrowedMedia-Liste 
-                // des Kunden einfügen)
+                // Medium als ausgeliehen dem ausleihenden Kunden zuordnen 
+                // (in die borrowedMedia-Liste  des Kunden einfügen)
                 // Über den "."-Operator greifen wir auf die Methode
                 // getBorrowedMedia() zu, beschaffen uns also die Liste
                 // der Medien, die dieser Kunde ausgeliehen hat.
                 // Dann fügen wir dieser Liste das ausgewählte Medium hinzu.
-                // Anwendung des "."-Operators auf diese Liste um deren
+                // Anwendung des "."-Operators auf diese Liste, um deren
                 // Funktion add() aufzurufen.
                 selectedCustomer.getBorrowedMedia().add(selectedMedia);
 
