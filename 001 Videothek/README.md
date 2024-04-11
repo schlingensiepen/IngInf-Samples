@@ -12,9 +12,8 @@ Dabei sollen für Kunden jeweils Name, Vorname und Mitgliedsnummer, für
 Filme der Titel und der Regisseur und für Computerspiele der Titel, der
 Publisher und das Studio verwaltet werden.
  
-Mit dem Modell soll es möglich sein,
-ausgeliehene Medien dem Ausleihenden zuzuordnen und umgekehrt für einen
-Kunden die gerade ausgeliehenen Medien zu ermitteln.
+Mit dem Modell soll es möglich sein, ausgeliehene Medien dem Ausleihenden 
+zuzuordnen und umgekehrt für einen Kunden die gerade ausgeliehenen Medien zu ermitteln.
 
 ## Hinweise zum Durcharbeiten 
 
@@ -29,4 +28,4 @@ Dann arbeiten Sie die Datei *Media.java* durch und dann die Datei
 
 Dann kehren Sie in die Datei *App.java* zurück und arbeiten sich
 weiter vor bis zu dem ersten Objekt vom Typ **Game** und schauen sich
-die in der Datei *Game.java* an.
+dieses in der Datei *Game.java* an.
